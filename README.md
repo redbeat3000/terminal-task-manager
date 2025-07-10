@@ -1,5 +1,5 @@
 # terminal-task-manager
-terminal based task manager written in golang that assigns tasks to a json file
+terminal based task manager written in golang that assigns tasks to a json file automatically
 
 # how to use the terminal app
 1. Add tasks
